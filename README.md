@@ -24,6 +24,21 @@ dependencies {
 ```
 Visit https://jitpack.io/#jrejaud/ViewPagerIndicator2 for more instructions
 
+## Usage
+See https://github.com/JakeWharton/ViewPagerIndicator#usage for instructions on how to use ViewPagerIndicator.
+You just need to change the path (in Java and XML) to:
+
+```
+com.github.jrejaud.viewpagerindicator2;
+```
+
+instead of 
+
+```
+com.viewpagerindicator;
+```
+
+
 #ViewPagerIndicator License 
 ```
 Copyright 2012 Jake Wharton
