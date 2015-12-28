@@ -1,9 +1,9 @@
 # ViewPagerIndicator2
 An (mildly) improved [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator), originally by Jake Wharton
 
-## Changes
-1. Build with Gradle as opposed to Maven, So it works with [JitPack](https://jitpack.io/).
-2. Uses `Math` instead of `FloatMath`, thus it works on Andrid API lvl 23
+## Changes from ViewPagerIndicator
+1. Build with Gradle as opposed to Maven; Works with [JitPack](https://jitpack.io/).
+2. Uses `Math` instead of `FloatMath`, thus this library works on Andrid API lvl 23
 
 ## To Install
 Add the JitPack repository to your build file
@@ -22,7 +22,7 @@ dependencies {
   compile 'com.github.jrejaud:ViewPagerIndicator2:0.0.1'
 }
 ```
-Visit https://jitpack.io/#jrejaud/ViewPagerIndicator2 for more instructions
+Visit https://jitpack.io/#jrejaud/ViewPagerIndicator2 for more information.
 
 ## Usage
 See https://github.com/JakeWharton/ViewPagerIndicator#usage for instructions on how to use ViewPagerIndicator.
