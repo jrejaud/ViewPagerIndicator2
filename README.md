@@ -7,7 +7,7 @@ An (mildly) improved [ViewPagerIndicator](https://github.com/JakeWharton/ViewPag
 
 ## To Install
 Add the JitPack repository to your build file
-```
+```groovy
 allprojects {
 	repositories {
   	...
@@ -17,7 +17,7 @@ allprojects {
 ```
 
 Add the dependency
-```
+```groovy
 dependencies {
   compile 'com.github.jrejaud:ViewPagerIndicator2:0.0.1'
 }
@@ -28,13 +28,13 @@ Visit https://jitpack.io/#jrejaud/ViewPagerIndicator2 for more information.
 See https://github.com/JakeWharton/ViewPagerIndicator#usage for instructions on how to use ViewPagerIndicator.
 You just need to change the path (in Java and XML) to:
 
-```
+```groovy
 com.github.jrejaud.viewpagerindicator2;
 ```
 
 instead of 
 
-```
+```java
 com.viewpagerindicator;
 ```
 
