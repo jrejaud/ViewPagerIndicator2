@@ -19,7 +19,7 @@ allprojects {
 Add the dependency
 ```groovy
 dependencies {
-  compile 'com.github.jrejaud:ViewPagerIndicator2:0.0.1'
+	compile 'com.github.jrejaud:ViewPagerIndicator2:0.0.2'
 }
 ```
 Visit https://jitpack.io/#jrejaud/ViewPagerIndicator2 for more information.
