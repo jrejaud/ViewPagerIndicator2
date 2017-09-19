@@ -39,7 +39,7 @@ com.viewpagerindicator;
 ```
 
 
-#ViewPagerIndicator License 
+# ViewPagerIndicator License 
 ```
 Copyright 2012 Jake Wharton
 Copyright 2011 Patrik Åkerfeldt
